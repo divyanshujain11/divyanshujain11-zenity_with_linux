@@ -1,4 +1,4 @@
-![image](https://github.com/divyanshujain11/divyanshujain11-zenity_with_linux/assets/77712311/84c151a7-367f-46f0-8e3f-cfb4d371f256)**What is Zenity ?**
+**What is Zenity ?**
 
 
 Zenity is a free and open-source graphical user interface (GUI) toolkit for Linux and Unix-like operating systems. It provides a simple and user-friendly way to create dialog boxes and windows in shell scripts and other scripting languages. Zenity is particularly useful for creating interactive dialogs in scripts that can be run from the command line or integrated into various automation and scripting tasks.
@@ -44,7 +44,8 @@ Zenity allows users to display a calendar dialog box, allowing the user to selec
 
                         zenity --calendar
 
-                        ![image](https://github.com/divyanshujain11/divyanshujain11-zenity_with_linux/assets/77712311/3c309dc0-ce9b-4c9a-8e68-ddaaf84b8490)
+
+ ![image](https://github.com/divyanshujain11/divyanshujain11-zenity_with_linux/assets/77712311/3c309dc0-ce9b-4c9a-8e68-ddaaf84b8490)
 
 
 
